@@ -1,0 +1,113 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style2,
+.style3,
+.style4 {
+  background-color: #aaa;
+  margin-left: 7.8431372549019605vw;
+  margin-top: 7.563025210084033vw;
+  width: 9.243697478991596vw;
+  height: 1.9607843137254901vw;
+  z-index: 3;
+  border-radius: .9803921568627451vw
+}
+.style2,
+.style3 {
+  margin-top: .8403361344537815vw;
+  z-index: 2
+}
+.style2 {
+  z-index: 1
+}
+.style5 {
+  object-fit: cover;
+  margin-left: 8.123249299719888vw;
+  margin-top: 21.84873949579832vw;
+  width: 55.182072829131656vw;
+  height: 8.96358543417367vw;
+  z-index: 4
+}
+.style1 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5nhqkgv64ixd.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  margin-top: 21.008403361344538vw;
+  width: 100vw;
+  height: 58.55873599439776vw;
+  z-index: 0;
+  justify-content: center
+}
+.mobilemadimage0col0 {
+  display: flex;
+  margin-left: 24.089635854341736vw;
+  margin-top: 14.84593837535014vw;
+  width: 51.82072829131653vw;
+  height: 35.294117647058826vw;
+  align-items: center;
+  flex-direction: column
+}
+.style6 {
+  object-fit: cover;
+  margin-top: 0;
+  width: 51.82072829131653vw;
+  height: 29.131652661064425vw;
+  z-index: 5
+}
+.style9 {
+  color: #00c4ff;
+  font-family: 'Helvetica Neue',serif;
+  font-size: 2.8011204481792715vw;
+  font-weight: 500;
+  margin-top: 3.081232492997199vw;
+  z-index: 8;
+  align-self: center
+}
+.mobilemadrow5 {
+  display: flex;
+  margin-left: 7.8431372549019605vw;
+  margin-top: 12.589723389355742vw;
+  width: 81.5126050420168vw
+}
+.style7 {
+  object-fit: cover;
+  margin-left: 0;
+  width: 42.296918767507vw;
+  height: 28.291316526610643vw;
+  z-index: 6
+}
+.mobilemadrow5col1 {
+  display: flex;
+  margin-left: 2.5210084033613445vw;
+  width: 36.69467787114846vw;
+  height: 52.38095238095238vw;
+  flex-direction: column
+}
+.style10,
+.style8 {
+  font-family: 'Helvetica Neue',serif;
+  font-size: 2.8011204481792715vw
+}
+.style8 {
+  margin-left: 0;
+  color: #9d9d9d;
+  margin-top: .2801120448179272vw;
+  z-index: 7
+}
+.style10 {
+  color: #00c4ff;
+  font-weight: 500;
+  margin-left: 19.607843137254903vw;
+  margin-top: -.2801120448179272vw;
+  z-index: 9
+}
+.breakpoint-0 {
+  display: block
+}
